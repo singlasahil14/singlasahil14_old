@@ -2,7 +2,7 @@ title: Sahil Singla
 baseurl: "/main"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
