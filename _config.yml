@@ -1,0 +1,23 @@
+title: Sahil Singla
+baseurl: "/main"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: no
+footer_url: "https://github.com/singlasahil14"
+footer_text: ""
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Main"
+   link: "/main/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
