@@ -1,22 +1,23 @@
 title: Sahil Singla
-baseurl: "/main/"
+url: 'https://singlasahil14.github.io'
+baseurl: ''
 
 markdown: kramdown
 
-tracking_id: #
+# tracking_id: #
 
 footer: no
-footer_url: "https://github.com/singlasahil14"
-footer_text: ""
+footer_url: ''
+footer_text: ''
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "Main"
-   link: "/main/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: 'Main'
+   link: '/main/'
+ - name: 'Resume'
+   link: 'resume.pdf'
+ - name: 'Contact'
+   link: 'contact'
