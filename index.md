@@ -22,8 +22,9 @@ My primary research interests are defense against adversarial examples and inter
 * Certifiably Robust Interpretation in Deep Learning. Under review. Short version accepted at NeurIPS Workshop on Machine Learning with Guarantees, 2019. \\
 Alexander Levine, **Sahil Singla**, Soheil Feizi. 
 * Bounding Singular Values of Convolution Layers. Under review. Short version accepted at ICLR workshop on Trustworthy Machine Learning, 2020.\\
-Cassidy Laidlaw, **Sahil Singla**, Soheil Feizi. Perceptual Adversarial Robustness: Defense Against Unseen Threat Models. Under review.\\
 **Sahil Singla**, Soheil Feizi. 
+Perceptual Adversarial Robustness: Defense Against Unseen Threat Models. Under review.\\
+Cassidy Laidlaw, **Sahil Singla**, Soheil Feizi. 
 * Robustness Certificates Against Adversarial Examples for ReLU Networks. Under review.\\
  **Sahil Singla**, Soheil Feizi.
 
