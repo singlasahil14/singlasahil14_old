@@ -25,6 +25,8 @@ Alexander Levine, **Sahil Singla**, Soheil Feizi.
 **Sahil Singla**, Soheil Feizi. 
 * Perceptual Adversarial Robustness: Defense Against Unseen Threat Models. Under review.\\
 Cassidy Laidlaw, **Sahil Singla**, Soheil Feizi. 
+* Fairness Through Robustness: Investigating Robustness Disparity in Deep Learning. Under review.\\
+Vedant Nanda, Samuel Dooley, **Sahil Singla**, Soheil Feizi, John Dickerson.
 * Robustness Certificates Against Adversarial Examples for ReLU Networks. Under review.\\
  **Sahil Singla**, Soheil Feizi.
 
