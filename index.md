@@ -15,17 +15,17 @@ My primary research interests are defense against adversarial examples and inter
 
 ### Publications
 
-* Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation. ICML 2019 \\
+* Understanding Impacts of High-Order Loss Approximations and Features in Deep Learning Interpretation. **ICML 2019** \\
 **Sahil Singla**, Eric Wallace, Shi Feng, Soheil Feizi.
+* Second-Order provable defenses against Adversarial Examples. **ICML 2020**\\
+**Sahil Singla**, Soheil Feizi. 
+* Certifiably Robust Interpretation in Deep Learning. Under review. Short version accepted at NeurIPS Workshop on Machine Learning with Guarantees, 2019. \\
+Alexander Levine, **Sahil Singla**, Soheil Feizi. 
+* Bounding Singular Values of Convolution Layers. Under review. Short version accepted at ICLR workshop on Trustworthy Machine Learning, 2020.\\
+Cassidy Laidlaw, **Sahil Singla**, Soheil Feizi. Perceptual Adversarial Robustness: Defense Against Unseen Threat Models. Under review.\\
+**Sahil Singla**, Soheil Feizi. 
 * Robustness Certificates Against Adversarial Examples for ReLU Networks. Under review.\\
  **Sahil Singla**, Soheil Feizi.
-* Certifiably Robust Interpretation in Deep Learning. Under review. Short version accepted at Neurips Workshop on Machine Learning with Guarantees.\\
-Alexander Levine, **Sahil Singla**, Soheil Feizi. 
-* Curvature-based Robustness Certificates against Adversarial Examples. Under review. Short version accepted at Neurips Workshop on Machine Learning with Guarantees.\\
-**Sahil Singla**, Soheil Feizi. 
-* Bounding Singular Values of Convolution Layers.\\
-**Sahil Singla**, Soheil Feizi. 
-
 
 ### News
 
