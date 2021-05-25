@@ -27,7 +27,7 @@ Cassidy Laidlaw, **Sahil Singla**, Soheil Feizi.
 **Sahil Singla**, Soheil Feizi. 
 * Fairness Through Robustness: Investigating Robustness Disparity in Deep Learning. **FAccT (formerly FAT), 2021**\\
 Vedant Nanda, Samuel Dooley, **Sahil Singla**, Soheil Feizi, John Dickerson.
-* Understanding Failures of Deep Networks via Robust Feature Extraction. **CVPR (Oral), 2021**\\
+* Understanding Failures of Deep Networks via Robust Feature Extraction. **CVPR, 2021 (Oral)**\\
 **Sahil Singla**, Besmira Nushi, Shital Shah, Ece Kamar, Eric Horvitz.
 * Certifiably Robust Interpretation in Deep Learning. Under review. Short version accepted at NeurIPS Workshop on Machine Learning with Guarantees, 2019. \\
 Alexander Levine, **Sahil Singla**, Soheil Feizi. 
