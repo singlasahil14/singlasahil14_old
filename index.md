@@ -19,14 +19,18 @@ My primary research interests are defense against adversarial examples and inter
 **Sahil Singla**, Eric Wallace, Shi Feng, Soheil Feizi.
 * Second-Order provable defenses against Adversarial Examples. **ICML 2020**\\
 **Sahil Singla**, Soheil Feizi. 
+* Fantastic Four: Differentiable and Efficient Bounds on Singular Values of Convolution Layers. **ICLR 2021**\\
+**Sahil Singla**, Soheil Feizi. 
+* Perceptual Adversarial Robustness: Defense Against Unseen Threat Models. **ICLR 2021**\\
+Cassidy Laidlaw, **Sahil Singla**, Soheil Feizi. 
+* Skew Orthogonal Convolutions. **ICML 2021**\\
+**Sahil Singla**, Soheil Feizi. 
+* Fairness Through Robustness: Investigating Robustness Disparity in Deep Learning. **FAccT (formerly FAT), 2021**\\
+Vedant Nanda, Samuel Dooley, **Sahil Singla**, Soheil Feizi, John Dickerson.
+* Understanding Failures of Deep Networks via Robust Feature Extraction. **CVPR (Oral), 2021**\\
+**Sahil Singla**, Besmira Nushi, Shital Shah, Ece Kamar, Eric Horvitz.
 * Certifiably Robust Interpretation in Deep Learning. Under review. Short version accepted at NeurIPS Workshop on Machine Learning with Guarantees, 2019. \\
 Alexander Levine, **Sahil Singla**, Soheil Feizi. 
-* Bounding Singular Values of Convolution Layers. Under review. Short version accepted at ICLR workshop on Trustworthy Machine Learning, 2020.\\
-**Sahil Singla**, Soheil Feizi. 
-* Perceptual Adversarial Robustness: Defense Against Unseen Threat Models. Under review.\\
-Cassidy Laidlaw, **Sahil Singla**, Soheil Feizi. 
-* Fairness Through Robustness: Investigating Robustness Disparity in Deep Learning. Under review.\\
-Vedant Nanda, Samuel Dooley, **Sahil Singla**, Soheil Feizi, John Dickerson.
 * Robustness Certificates Against Adversarial Examples for ReLU Networks. Under review.\\
  **Sahil Singla**, Soheil Feizi.
 
