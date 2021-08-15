@@ -11,7 +11,10 @@ Hi! I am a third year PhD student at University of Maryland, College Park. I gra
 
 ### Research Interests
 
-My primary research interests are provable defenses against adversarial examples and interpretation of deep neural networks.
+**Provable defenses against adversarial examples:** The phenomenon of adversarial examples has established that neural networks are brittle and not robust to small targeted perturbations. Empirical defenses are often broken by newer and stronger attacks leading to unreliable robustness guarantees. Instead, my work derives provable defenses which provide a differentiable and guaranteed robustness certificate on the output of the neural network and can be used to train convolutional neural networks with robustness guarantees.
+
+**Failure explanation of deep neural networks:** Most of the previous work on discovering failure modes of deep neural networks requires a human to first hypothesize *what could be the possible failure mode?* and then collection of metadata via crowdsourcing to validate the hypothesis. However, this approach often requires an expensive and time-consuming labeling of metadata by humans. My approach circumvents the aforementioned issue and allows the discovery of failure modes without manual annotating for visual attributes.
+
 
 ### Publications
 
@@ -28,6 +31,8 @@ Cassidy Laidlaw, **Sahil Singla**, Soheil Feizi.
 * Fairness Through Robustness: Investigating Robustness Disparity in Deep Learning. **FAccT (formerly FAT), 2021**\\
 Vedant Nanda, Samuel Dooley, **Sahil Singla**, Soheil Feizi, John Dickerson.
 * Understanding Failures of Deep Networks via Robust Feature Extraction. **CVPR, 2021 (Oral)**\\
+Vasu Singla, **Sahil Singla**, David Jacobs, Soheil Feizi.
+* Low Curvature Activations Reduce Overfitting in Adversarial Training. **ICCV, 2021**\\
 **Sahil Singla**, Besmira Nushi, Shital Shah, Ece Kamar, Eric Horvitz.
 * Certifiably Robust Interpretation in Deep Learning. Under review. Short version accepted at NeurIPS Workshop on Machine Learning with Guarantees, 2019. \\
 Alexander Levine, **Sahil Singla**, Soheil Feizi. 
