@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-Hi! I am a third year PhD student at University of Maryland, College Park. I graduated with my B.Tech in Computer Science from IIT Delhi in 2014. 
+Hi! I am a fourth year PhD student at University of Maryland, College Park. I graduated with my B.Tech in Computer Science from IIT Delhi in 2014. 
 
 ### Research Interests
 
